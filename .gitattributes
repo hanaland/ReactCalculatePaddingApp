@@ -1,0 +1,6 @@
+*.html linguist-documentation
+*.css linguist-documentation
+*.babelrc linguist-documentation
+*.lock linguist-documentation
+*.json linguist-documentation
+*.sh linguist-documentation
